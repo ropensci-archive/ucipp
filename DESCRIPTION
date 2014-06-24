@@ -1,0 +1,7 @@
+Package: ucipp
+Title: Access UCI machine learning datasets
+Version: 0.0.1
+Authors@R: "Luís Paulo F. Garcia <lpfgarcia@gmail.com> [aut, cre]"
+Description: Access UCI machine learning datasets
+License: MIT + file LICENSE
+LazyData: true
